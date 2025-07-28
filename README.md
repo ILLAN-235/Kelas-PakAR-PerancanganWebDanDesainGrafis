@@ -1,5 +1,3 @@
-# Kelas-PakAR-PerancanganWebDanDesainGrafis
-
 ## Proses Pengerjaan
 
 Proyek ini merupakan website toko online sederhana yang dibuat menggunakan PHP untuk backend dan CSS untuk tampilan antarmuka.
@@ -14,6 +12,27 @@ Semua file utama disimpan di dalam folder [`myveridla`](./myveridla). Struktur h
 - Terdapat juga fitur pemesanan langsung via tautan WhatsApp di setiap produk.
 
 Seluruh file dan folder disusun secara terstruktur untuk memudahkan pengembangan dan pengelolaan baik secara lokal maupun online.
+
+---
+
+## Tampilan Halaman
+
+Berikut ini adalah beberapa tampilan antarmuka dari website:
+
+### Halaman Beranda
+![Index](./myveridla/assets/img/index.jpg)
+
+### Halaman Beranda (scroll/tampilan kedua)
+![Index 1](./myveridla/assets/img/index1.jpg)
+
+### Halaman Produk
+![Produk](./myveridla/assets/img/produk.jpg)
+
+### Halaman Keranjang
+![Cart](./myveridla/assets/img/cart.jpg)
+
+### Tampilan Pemesanan WhatsApp
+![WhatsApp](./myveridla/assets/img/WA.jpg)
 
 ---
 
